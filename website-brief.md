@@ -2,6 +2,7 @@ Hi, please use Markdown in your communications where possible.
 
 
 **Purpose**
+
 Public-facing website for a new healthcare service led by an endocrinologist.  
 The site must communicate clinical credibility, define scope clearly, and support compliant patient engagement.
 
@@ -81,8 +82,11 @@ Use `#F2A654` for CTA buttons
   - path: /contact
     title: Contact Us
 
+
 **Placeholder Contact/Locations**
 
 34 Morley Avenue, Rosebery, NSW 2018
+
 +61 (2) XXXX XXXX
+
 hello@healthspanclinics.com.au
