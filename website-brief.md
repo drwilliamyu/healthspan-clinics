@@ -24,7 +24,7 @@ No outcome guarantees, longevity claims, or comparative superiority language.
 **Core Infrastructure**
 - content management system: Wordpress or Webflow only
 - hosting: Australian-based servers only
-- third-party integration: Hotdoc for real-time booking requests
+- third-party integration: Hotdoc/Halaxy for real-time booking requests 
 - include analytics tools
 - additional: chatbot for user support/lead capture - direct query to backend user (receptionist)
 
