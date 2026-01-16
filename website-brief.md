@@ -77,8 +77,6 @@ Use `#F2A654` for CTA buttons
         title: Patient Hub
       - path: /resources/clinician-resources
         title: Clinician Resources
-      - path: /resources/calculators
-        title: Calculators
 
   - path: /contact
     title: Contact Us
